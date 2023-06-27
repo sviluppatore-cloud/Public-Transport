@@ -6,6 +6,7 @@ La gerarchia sarà
 
 - Ente di trasporto
     - Linea
+        - Tratte (normalmente una per percorsi circolari, 2 per capolina A -> B e B -> A)
     - Fermate
  
 La linea poi avrà agganciate le fermate (ordinate) dentro la tratta
